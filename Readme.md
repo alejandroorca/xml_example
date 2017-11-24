@@ -19,4 +19,5 @@ This is example of a **XML** _without attributes and without namespaces_:
 <ol>
 <li>1</li>
 </ol>
+<img src="http://masterhacks.net/noticias/wp-content/uploads/2017/06/masterhakcs_google_recibe_multa_union_europea.jpg" alt="Google"/>
 ```
