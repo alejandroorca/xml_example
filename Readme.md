@@ -14,3 +14,9 @@ This is example of a **XML** _without attributes and without namespaces_:
   <body>Don't forget me this weekend!</body>
 </note>
 ```
+```html
+<p>Lista 1</p>
+<ol>
+<li>1</li>
+</ol>
+```
